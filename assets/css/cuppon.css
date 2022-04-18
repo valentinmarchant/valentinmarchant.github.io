@@ -1,0 +1,63 @@
+.logo{
+    height: 60px;
+}
+.navbar{
+    background-color: #28a745;
+    font-family: Roboto;
+}
+
+.navbar-right{
+    float: right;
+}
+
+h5{
+    color:#212529;
+    font-weight: 300;
+}
+
+.parrafo_1{
+    color: #707070;
+    font-family: Roboto;
+    font-weight: 300;
+}
+
+.texto_1{
+    color: #707070;
+    font-family: Roboto;
+    font-weight: 300;
+}
+
+.texto_2{
+    font-family: Roboto;
+    color: #707070;
+}
+
+.texto_precio{
+    font-weight: 300;
+}
+
+.texto_3{
+    color: #28a745;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.colores{
+    background-color: #28a745;
+}
+
+form{
+    font-family: Roboto;
+}
+
+.texto_form{
+    font-weight: 500;
+}
+
+.logo_footer{
+    height: 20px;
+}
+
+.texto_footer{
+    font-weight: 300;
+}
